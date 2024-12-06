@@ -1,0 +1,1 @@
+[{"name": "username", "type": "text", "default": "Enter your username"}, {"name": "password", "type": "password", "default": "Enter your password"}, {"name": "terms", "type": "checkbox", "default": null}]
